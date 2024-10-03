@@ -3,6 +3,8 @@
 
 <p>I’m an entry-level graphic designer with an aspiration to create eye-catching visuals. I’m ready to learn and contribute to creative projects.😁</p> 
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="500">
+<br><br>
 
 ####  About me 💭
 _____________________________________________________________
